@@ -12,5 +12,5 @@ newmtl CAR_05
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\BOM Solutions\Downloads\72-low_poly_cars_set\low_poly_cars_set\Low_Poly_City_Cars.fbm\Car_05.png
-	map_Kd C:\Users\BOM Solutions\Downloads\72-low_poly_cars_set\low_poly_cars_set\Low_Poly_City_Cars.fbm\Car_05.png
+	map_Ka Car_05.png
+	map_Kd Car_05.png
